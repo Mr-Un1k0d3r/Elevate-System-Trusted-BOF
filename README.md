@@ -1,6 +1,6 @@
 # Elevate-System-Trusted-BOF
 
-This BOF can be used to elevate the current beacon to SYSTEM and obtain the TrustedInstaller. The impersonation is done through the `SetThreadToken` API
+This BOF can be used to elevate the current beacon to SYSTEM and obtain the TrustedInstaller group privilege. The impersonation is done through the `SetThreadToken` API
 
 # Compiling
 
